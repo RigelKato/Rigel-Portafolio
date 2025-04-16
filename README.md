@@ -17,9 +17,13 @@
 ---
 
 ## 📁 Proyectos destacados
-### 📌 [1. Análisis de ventas y comportamiento de compradores](./Proyecto_1_Ventas/)
-**Herramientas:** Excel + Tableau  
-**Resumen:** Limpieza, segmentación y visualización de ventas según tipo de pago, tipo de cliente y frecuencia de compra. Se generó un dashboard interactivo con insights clave.
+### 📌 [1. Análisis de ventas y comportamiento de compradores](https://github.com/RigelKato/analisis-ventas-tendencias)
+**Herramientas:** Excel + Tableau + SQL
+**Resumen:** Descubrimiento de insights de valor para identificar tendencia de venta y sus fenomenos.
+
+### 📌 [1. Análisis de encuestas](https://github.com/RigelKato/analisis-ventas-tendencias)
+**Herramientas:** Rstudio + Tableau  
+**Resumen:** Entendimiento de las conductas y fenomenos de clientes para una tienda de tecnología.
 
 ## 📬 ¿Quieres contactarme?
 
