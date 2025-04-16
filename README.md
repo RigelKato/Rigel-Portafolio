@@ -21,7 +21,7 @@
 **Herramientas:** Excel + Tableau + SQL
 **Resumen:** Descubrimiento de insights de valor para identificar tendencia de venta y sus fenomenos.
 
-### 📌 [1. Análisis de encuestas](https://github.com/RigelKato/analisis-ventas-tendencias)
+### 📌 [1. Análisis de encuestas](https://github.com/RigelKato/analisis-encuesta)
 **Herramientas:** Rstudio + Tableau  
 **Resumen:** Entendimiento de las conductas y fenomenos de clientes para una tienda de tecnología.
 
